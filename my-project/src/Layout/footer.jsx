@@ -13,7 +13,6 @@ export default function footer() {
                 <CiTwitter />
                 <RiTelegramLine />
                 <CiLinkedin />
-
             </div>
             <p>&copy: 2021pedrotechpizza.com</p>
         </div>
